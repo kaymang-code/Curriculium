@@ -1,9 +1,7 @@
 # Kayman Jhosef Carvalho Gonçalves
 
-### Objetivo: Programa Acadêmicos 2024
-
 ### Resumo de qualificações
-Profissional com mais de 6 anos de experiência na área de pesquisa em física, atualmente em transição de carreira para a área de ciência de dados. Possui formação em física bacharelado em 2017, mestrado em física em 2019 e atualmente cursando doutorado física. Demonstra experiências profissionais em pesquisa e modelagem matemática. Demostra uma sólida capacidade criativa, analítica e habilidade de comunicação assertiva, juntamente com uma notável vontade de aprender.
+Profissional com mais de 6 anos de experiência na área de pesquisa e ensino de física, atualmente em transição de carreira para a área de ciência de dados. Possui formação em física bacharelado em 2017, mestrado em física em 2019 e atualmente cursando doutorado física. Demonstra experiências profissionais em pesquisa e modelagem matemática. Demostra uma sólida capacidade criativa, analítica e habilidade de comunicação assertiva, juntamente com uma notável vontade de aprender.
 
 
 ### Formação tech
@@ -39,5 +37,8 @@ Atuação como pesquisador em física de partículas com enfâse na modelagem co
 
 ### Experiências Didáticas
 
-- PED
+- Programa de Estágio Docente [PED](https://www.prpg.unicamp.br/estagio-docente/ped/) - 2021
+
+- Programa de Educação Tutorial - Ministério da Educação [PET]([https://www.prpg.unicamp.br/estagio-docente/ped/](http://portal.mec.gov.br/component/tags/tag/programa-de-educacao-tutorial#:~:text=O%20PET%20%C3%A9%20desenvolvido%20por,extens%C3%A3o%20e%20da%20educa%C3%A7%C3%A3o%20tutorial.)http://portal.mec.gov.br/component/tags/tag/programa-de-educacao-tutorial#:~:text=O%20PET%20%C3%A9%20desenvolvido%20por,extens%C3%A3o%20e%20da%20educa%C3%A7%C3%A3o%20tutorial.) - 2013 início a 2017 Término
+  
 
