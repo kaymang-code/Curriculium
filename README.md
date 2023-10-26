@@ -39,6 +39,6 @@ Atuação como pesquisador em física de partículas com enfâse na modelagem co
 
 - Programa de Estágio Docente [PED](https://www.prpg.unicamp.br/estagio-docente/ped/) - 2021
 
-- Programa de Educação Tutorial - Ministério da Educação [PET](https://www.prpg.unicamp.br/estagio-docente/ped/](http://portal.mec.gov.br/component/tags/tag/programa-de-educacao-tutorial#:~:text=O%20PET%20%C3%A9%20desenvolvido%20por,extens%C3%A3o%20e%20da%20educa%C3%A7%C3%A3o%20tutorial.)http://portal.mec.gov.br/component/tags/tag/programa-de-educacao-tutorial#:~:text=O%20PET%20%C3%A9%20desenvolvido%20por,extens%C3%A3o%20e%20da%20educa%C3%A7%C3%A3o%20tutorial.) - 2013 início a 2017 Término
+- Programa de Educação Tutorial - Ministério da Educação [PET](http://portal.mec.gov.br/component/tags/tag/programa-de-educacao-tutorial#:~:text=O%20PET%20%C3%A9%20desenvolvido%20por,extens%C3%A3o%20e%20da%20educa%C3%A7%C3%A3o%20tutorial) - 2013 início a 2017 Término
   
 
